@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "notebook MAC pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 2000
+    },
+    {
+      "name": "Geladeira",
+      "price": "1913.99",
+      "id": 4
+    },
+    {
+      "name": "Produto de teste",
+      "price": 1250.5,
+      "id": 5
+    },
+    {
+      "name": "Produto de teste",
+      "price": 1250.5,
+      "id": 6
+    },
+    {
+      "name": "Produto de teste",
+      "price": 1250.5,
+      "id": 7
+    },
+    {
+      "name": "Produto de teste",
+      "price": 1250.5,
+      "id": 8
+    },
+    {
+      "name": "Produto de teste",
+      "price": 1250.5,
+      "id": 9
+    },
+    {
+      "name": "Produto de teste",
+      "price": 1250.5,
+      "id": 10
+    },
+    {
+      "name": "Produto de teste",
+      "price": 1250.5,
+      "id": 11
+    },
+    {
+      "name": "Produto de teste",
+      "price": 1250.5,
+      "id": 12
+    },
+    {
+      "name": "Produto de teste",
+      "price": 1250.5,
+      "id": 13
+    },
+    {
+      "name": "Veio do formulário",
+      "price": "9.79",
+      "id": 15
+    }
+  ]
+}
